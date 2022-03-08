@@ -1,1 +1,1 @@
-
+![](./path/example.svg)
