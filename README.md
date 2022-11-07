@@ -1,3 +1,1 @@
-<a href="https://discordstatus.com" target="_blank">
-<img border="0" alt="W3Schools" src="https://hcti.io/v1/image/db7e92dd-1d8c-4989-91b2-c1d2d245a513">
-</a>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MP3Martin&show_icons=true&theme=synthwave&icon_color=158cef&count_private=true&include_all_commits=true)](#/)
